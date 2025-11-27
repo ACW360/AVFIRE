@@ -51,7 +51,7 @@ All in a safe, controlled, **educational** environment.
 Clone the repository:
 
 ```bash
-git clone https://github.com/ACW360/AVFIRE
+git clone https://github.com/ACW360/AVFIRE.git
 cd AVFIRE
 ```
 
@@ -63,14 +63,7 @@ python3 avfire.py
 
 ---
 
-## 🖥 Screenshot  
-Your repository already contains the screenshot:
-
-```
-screenshots/avfire-demo.png
-```
-
-Insert it here:
+## 🖥 Screenshots
 
 ![AVFIRE Screenshot](screenshots/avfire-demo.png)
 
