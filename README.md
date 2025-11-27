@@ -82,13 +82,13 @@ pip install pyinstaller
 ### Build the EXE:
 
 ```powershell
-pyinstaller -F avfire.py --noconsole
+pyinstaller -F file_name.py --noconsole
 ```
 
 Your executable will be created in:
 
 ```
-dist/avfire.exe
+dist/file_name.exe
 ```
 
 Educational cybersecurity tools sometimes trigger **false positives** because security engines flag general automation behaviors — this is normal in the industry.
